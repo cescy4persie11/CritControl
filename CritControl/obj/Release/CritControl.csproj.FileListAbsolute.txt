@@ -1,0 +1,5 @@
+D:\Ensage\Cache\build\CritControl\CritControl.dll
+C:\Users\feiyZHAO\source\repos\CritControl\CritControl\obj\Release\CritControl.csprojAssemblyReference.cache
+C:\Users\feiyZHAO\source\repos\CritControl\CritControl\obj\Release\CritControl.csproj.CoreCompileInputs.cache
+C:\Users\feiyZHAO\source\repos\CritControl\CritControl\obj\Release\CritControl.csproj.CopyComplete
+C:\Users\feiyZHAO\source\repos\CritControl\CritControl\obj\Release\CritControl.dll
